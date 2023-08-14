@@ -1,0 +1,37 @@
+-- Notes of the course --
+
+-- SQL is not case sensitive
+
+1) --  -> It is used to comment single line
+
+2) AS -> is used to rename the same column name
+
+3) SELECT, FROM, WHERE clause
+
+4)some arithmatic operators used in SQL are :
+a) >
+b) >=
+c) <
+d) <=
+e) = 
+f) !=
+g) <>
+
+
+5) AND , OR , NOT, IN, BETWEEN, LIKE, REGEXP, IS NULL Operators.
+
+6) Instead of LIKE( % & _ ) operators we should always make use of REGEXP Oerator.
+
+7) ORDER BY clause
+
+8)JOIN Operations With ON
+
+9) JOIN across DATABASES
+
+10) INNER JOIN & OUTER JOIN
+
+11) INNER JOIN uses only JOIN KEYWORD and OUTER JOIN uses LEFT & RIGHT JOIN
+
+12)UNIONS ( connects rows from other tables)
+
+13) INSERT ( Insert rows into table)
