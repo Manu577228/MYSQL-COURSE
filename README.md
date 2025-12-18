@@ -1,4 +1,4 @@
-# 📘 SQL Course Materials!  
+# 📘 SQL Course Materials 
 A complete beginner-friendly SQL learning kit containing examples, exercises, cheat sheets, and visual explanations.  
 Perfect for students, developers, and anyone preparing for interviews.
 
